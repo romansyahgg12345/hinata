@@ -56,10 +56,10 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
-  botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
-  group: '_Khusus Group 😏_',
+  admin: '_Kamu Bukan Admin_',
+  botAdmin: '_Bot Bukan Admin_',
+  owner: '_Kamu Bukan Owner Bot_',
+  group: '_Khusus Di Group_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
